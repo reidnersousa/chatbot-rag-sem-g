@@ -1,0 +1,22 @@
+{
+  "nome_do_arquivo.pdf::1": {
+    "texto": "Exemplo de resposta para a seção 1. Descreva aqui a política de forma clara e direta para o colaborador.",
+    "categoria": "home_office"
+  },
+  "nome_do_arquivo.pdf::2": {
+    "texto": "Exemplo de resposta para a seção 2. Indique onde o colaborador pode buscar mais informações, como o RH.",
+    "categoria": "home_office"
+  },
+  "nome_do_arquivo.pdf::3": {
+    "texto": "Exemplo de resposta para a seção 3. Use linguagem acessível e seja objetivo.",
+    "categoria": "seguranca"
+  },
+  "outro_documento.pdf::1": {
+    "texto": "Exemplo de resposta de outro documento, seção 1. Cada chave segue o padrão nome_arquivo.pdf::numero_secao.",
+    "categoria": "reembolso"
+  },
+  "outro_documento.pdf::2": {
+    "texto": "Exemplo de resposta de outro documento, seção 2. Termine sempre indicando onde o colaborador pode obter mais detalhes.",
+    "categoria": "reembolso"
+  }
+}
