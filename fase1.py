@@ -114,7 +114,7 @@ def load_pdfs(pdf_folder: str) -> list[dict]:
 def generate_embeddings(
     chunks: list[dict],
     model_name = "paraphrase-multilingual-MiniLM-L12-v2",
-    #model_name: str = "all-MiniLM-L6-v2",
+    ## model_name: str = "all-MiniLM-L6-v2",
     save_folder: str = "/kaggle/working/embedding/rag_embeddings_policies"
 ) -> tuple:
     """
